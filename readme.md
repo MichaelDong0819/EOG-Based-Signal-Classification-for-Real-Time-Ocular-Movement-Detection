@@ -1,4 +1,4 @@
-# Eye Movement Detection in Hazard Recognition
+# EOG Based Signal Classification for Real Time Ocular Movement Detection
 
 ## Project Overview
 
